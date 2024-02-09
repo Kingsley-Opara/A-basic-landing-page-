@@ -4,6 +4,7 @@ import Navbar from "./components/navbar";
 import Hero from "./components/hero";
 import BodySection from "./components/body";
 import TextSection from "./components/text";
+import Contact from "./components/contact";
 
 
 export default function Home() {
@@ -13,6 +14,7 @@ export default function Home() {
       <Hero/>
       <BodySection/>
       <TextSection/>
+      <Contact/>
     </main>
   );
 }
