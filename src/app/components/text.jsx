@@ -2,7 +2,7 @@ import React from 'react'
 
 function TextSection() {
   return (
-    <div className = "pl-24 pr-24 mt-20 flex flex-col space-y-4 ">
+    <div className = "pl-24 pr-24 mt-20 flex flex-col space-y-4 " id='about'>
       <h2 className = 'text-2xl' >About</h2>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dolor sit amet consectetur adipiscing elit pellentesque habitant. Cras pulvinar mattis nunc sed blandit libero volutpat. Odio ut enim blandit volutpat maecenas volutpat. Sapien eget mi proin sed libero enim. Amet facilisis magna etiam tempor. Facilisi cras fermentum odio eu feugiat pretium nibh. Nibh tellus molestie nunc non blandit. Integer enim neque volutpat ac tincidunt vitae semper quis. Gravida rutrum quisque non tellus. Et pharetra pharetra massa massa ultricies mi quis. Nisl rhoncus mattis rhoncus urna neque viverra justo nec. Eget sit amet tellus cras adipiscing enim eu turpis. Volutpat commodo sed egestas egestas fringilla. Dui accumsan sit amet nulla. Morbi quis commodo odio aenean sed adipiscing. Elementum nisi quis eleifend quam adipiscing vitae proin sagittis nisl. Interdum posuere lorem ipsum dolor. Dolor magna eget est lorem ipsum dolor. Nibh nisl condimentum id venenatis.
