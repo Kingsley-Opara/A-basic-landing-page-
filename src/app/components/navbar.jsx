@@ -30,7 +30,7 @@ function Navbar() {
         </div>
         { 
             showNavbar && 
-            <div className='hidden max-md:flex flex-col absolute items-center top-5 left-[12rem] bg-white text-black w-[200px] h-[210px]'>
+            <div className='hidden max-md:flex flex-col absolute items-center top-10 left-[8rem] bg-white text-black w-[200px] h-[210px]'>
                 <ul className='pt-5 flex flex-col space-y-7'>
                     <li><a href="" className='hover:text-blue-300' >Home</a></li>
                     <li><a href="#about" className='hover:text-blue-300' >About</a></li>
