@@ -2,7 +2,7 @@ import React from 'react'
 
 function BodySection() {
   return (
-    <section className='mt-[22rem] justify-center self-center place-content-center ml-[18rem] max-md:pl-2 max-md:ml-10'>
+    <section className='mt-[22rem] justify-center self-center place-content-center ml-[18rem] max-md:pl-2 max-md:ml-5'>
         <p>Supported and backed by:</p>
 
         <div className='flex flex-col space-y-4'>
